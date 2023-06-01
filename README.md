@@ -7,4 +7,11 @@ Data Cleaning Projects that have been completed on Excel -- A complete project c
 
 
 	https://github.com/tumassi/Excel_Cleaning/blob/main/President_Data_Cleaning_Steps
+	
+**Cosmetics Inc. Dataset ** 
 
+	https://github.com/tumassi/Excel_Cleaning/blob/main/Cosmetics%20Inc.%20Dataset.xlsx ・ LEFT, RIGHT, MID, & TRIM
+	
+**Weather Dataset **
+
+	https://github.com/tumassi/Excel_Cleaning/blob/main/Weather%20Dataset.xlsx ・ CONVERT Temp, CONVERT Windspeed, REFORMAT timestamp
